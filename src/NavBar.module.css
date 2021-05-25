@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.Nav {
+  height: 5em;
+  width: 100vw;
+  background-color: black;
+  display: grid;
+  justify-content: flex-end;
+}
+
+.Hamburger {
+  height: 5em;
+  width: 5em;
+  background-color: black;
+}
